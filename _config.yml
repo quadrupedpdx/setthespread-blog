@@ -1,4 +1,5 @@
-baseurl: /
+# baseurl must not end in a slash
+baseurl:
 permalink: pretty
 markdown: rdiscount
 prose:
